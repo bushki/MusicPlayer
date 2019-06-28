@@ -1,1 +1,1 @@
-# SWIFT MusicPlayer
+# Swift MusicPlayer
